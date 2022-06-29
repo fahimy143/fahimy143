@@ -4,7 +4,7 @@
 <!-- ## ![Hard coding](./image_processing.gif) -->
 <img align="right" alt="Person coding gif" src="./image_processing.gif" height="350" width="450" /> 
 
-*Remote Full-stack web developer*
+*Full-stack web developer*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mustafa%Fahimy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafa-fahimy-307566236/)](https://www.linkedin.com/in/mustafa-fahimy-307566236/)
 [![Twitter Badge](https://img.shields.io/badge/-@MustafaFahimy_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MustafaFahimy)](https://twitter.com/MustafaFahimy)
