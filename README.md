@@ -2,7 +2,7 @@
 
 
 <!-- ## ![Hard coding](./image_processing.gif) -->
-<img align="right" alt="Person coding gif" src="./image_processing.gif" height="350" width="450" /> 
+<img align="right" alt="Person coding gif" src="./image_processing.gif" height="300" width="400" /> 
 
 *Full-stack web developer*
 
@@ -14,10 +14,29 @@
 
 - **I have a degree in computer science Software Engineering.**
 - **currently I’m studying at Microverse.**
+- **Open to new opportunities.**
+- **Reach me on: 📧 mustafafahimy@gmail.com**
+  
+  <br/>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimy143&label=Profile%20views&color=1c1c1c&style=flat" alt="Shahira" /> </p>
 
-### This is my status on Github
+---
+### My Statistics
+<br/>
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimy143&show_icons=true&theme=radical) [![Mustafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimy143&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/fahimy143/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fahimy143&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimy143&theme=algolia&hide_border=true" />
+  </a>
+</p>
+<br>
 
 
-**You can check my portfolio [here](https://fahimy143.github.io/My_Portfolio/)**
+[![Fahmiy's Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahimy143&custom_title=Fahimy%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/fahimy143/)
+
+<br/>
+
+**You can check my portfolio [here](https://fahimy143.github.io/My_Portfolio/)**<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+
