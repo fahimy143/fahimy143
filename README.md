@@ -19,7 +19,7 @@
   
   <br/>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimy143&label=Profile%20views&color=1c1c1c&style=flat" alt="Shahira" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahimy143&label=Profile%20views&color=1c1c1c&style=flat" alt="fahimy" /> </p>
 
 ---
 ### My Statistics
