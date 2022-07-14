@@ -13,7 +13,7 @@
 <img src="./About Me.gif" width="30%" >
 
 - **I have a degree in computer science Software Engineering.**
-- **currently I’m studying at Microverse.**
+- **Currently I’m studying at Microverse.**
 - **Open to new opportunities.**
 - **Reach me on: 📧 mustafafahimy@gmail.com**
   
