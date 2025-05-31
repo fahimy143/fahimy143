@@ -9,8 +9,8 @@ const MustafaFahimy = {
   openTowork: true,
   lookingFor: "Front-End developer",
   languagesAndTools: [JavaScript, React, Redux, HTML/CSS, Bootstrap, php, Laravel, MySQL, Java, Git, Gihub],
-  education: "I have a degree in computer science Software Engineering, Currently I’m studying at Microverse.",
-  reachMe: 'mustafafahimy@gmail.com'
+  education: "Bachelor's degree in Computer Science (Software Engineering). Currently studying a Master's degree at the University of Vienna.",
+  reachMe: "mustafafahimy@gmail.com"
 }
 ```
 
